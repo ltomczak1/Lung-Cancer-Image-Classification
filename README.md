@@ -1,1 +1,1 @@
-# Lung Cancer Subclassification Using FastAI and Hugging Face
+### Lung Cancer Histopathological Image Classification Using FastAI & Hugging Face
